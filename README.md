@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Treasure
-I am a passionate programmer, innovator, and problem solver on a gap year. My journey in the world of technology revolves around building software applications that tackle global challenges and contribute to the betterment of humanity. 
+I am a passionate programmer, innovator, and problem solver. My journey in the world of technology revolves around building software applications that tackle global challenges and contribute to the betterment of humanity. 
 
 ### My Tech Stack
 - **Frontend**: HTML/CSS, Javascript, React
