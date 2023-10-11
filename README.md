@@ -4,7 +4,7 @@ I am a passionate programmer, innovator, and problem solver. My journey in the w
 ### My Tech Stack
 - **Frontend**: HTML/CSS, Javascript, React
 - **Backend**: Django, Flask
-- **UI**: TailwindCSS, Bootstrap
+- **UI**: TailwindCSS, Bootstrap, Figma
 - **Databases**: MySQL, SQLite, PostgreSQL
 - **Mobile**: React Native
 
